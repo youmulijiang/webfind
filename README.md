@@ -69,9 +69,11 @@ version:0.1
 
 ## 使用截图
 
-![1709813954221](image/readme/1709813954221.png)
+![image](https://github.com/youmulijiang/webfind/assets/111237463/f877a001-4821-4eb4-b8a2-0b597c85bd2b)
 
-![1709814013633](image/readme/1709814013633.png)
+
+![image](https://github.com/youmulijiang/webfind/assets/111237463/9fb928a3-7350-4726-9202-31d72f9f63bb)
+
 
 ## 计划
 
