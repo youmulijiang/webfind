@@ -1,0 +1,2 @@
+def pinta():
+    print("hello")
